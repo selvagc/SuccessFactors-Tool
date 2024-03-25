@@ -26,3 +26,5 @@ The SuccessFactors Data Tool simplifies the extraction of data from SuccessFacto
 
 The SuccessFactors Data Tool is designed to significantly enhance organizational efficiency during critical project cutover periods. Its robust features streamline data management, validation, and integration, optimizing the implementation timeline. By automating data extraction, validation, and comparison against business benchmarks, manual effort is greatly minimized, ensuring smooth transitions and driving success in critical projects.
 
+
+![image](https://github.com/selvagc/SuccessFactors-Tool/assets/164942993/afcc7e33-ae7c-488e-b3f3-b27f2bfab23a)
