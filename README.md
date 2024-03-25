@@ -34,5 +34,9 @@ http://localhost:3000/dataextract.html
 ![image](https://github.com/selvagc/SuccessFactors-Tool/assets/164942993/c2fe7134-2f85-44ee-9885-0e5f17ac0509)
 
 Table Name: Preferred Table name can be used and different version of data can be stored in different Tables
+
 Entity Set: Odata end-point name [Ex: User, EmpCompensation, EmpJob & others]. Enitity set will support complex odata Query
+
 Full Extract: As default, odata will extract only 1000 records and select 'Full extract' to extract full load
+
+Extracted data can be reviewed using 'SQLiteDatabaseBrowserPortable'[https://sqlitebrowser.org/dl/]. No Installation required and SQLite's DB is located in 'data' folder
