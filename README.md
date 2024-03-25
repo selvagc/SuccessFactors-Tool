@@ -12,12 +12,14 @@ The SuccessFactors Data Tool simplifies the extraction of data from SuccessFacto
 		•	Download workbooks directly into Excel sheets for easy access and analysis
 
 •	Streamlined Business Data Validation
+
 		•	Simplify the validation process by providing an intuitive upload mechanism for business data 
 		•	Validate various business metrics, including employee information, organizational structures and others
 		•	Ensure data accuracy and integrity through automated validation checks and error notifications
 		•	Facilitate quick identification and resolution of discrepancies to maintain data consistency
 
 •	Swift SuccessFactors Data Validation [Specify to projects]
+
 		•	Expedite the validation of SuccessFactors data against business benchmarks during implementation cut-over periods
 		•	Identify discrepancies promptly and implement corrective measures to prevent operational disruptions.
 		•	Streamline the transition process by validating data integrity across systems, ensuring a seamless integration experience
