@@ -25,3 +25,14 @@ The SuccessFactors Data Tool simplifies the extraction of data from SuccessFacto
 	• Streamline the transition process by validating data integrity across systems, ensuring a seamless integration experience
 
 The SuccessFactors Data Tool is designed to significantly enhance organizational efficiency during critical project cutover periods. Its robust features streamline data management, validation, and integration, optimizing the implementation timeline. By automating data extraction, validation, and comparison against business benchmarks, manual effort is greatly minimized, ensuring smooth transitions and driving success in critical projects.
+
+http://localhost:3000/index.html
+![image](https://github.com/selvagc/SuccessFactors-Tool/assets/164942993/4362b97c-31ca-44bd-bea6-77e37ae06be7)
+
+
+http://localhost:3000/dataextract.html
+![image](https://github.com/selvagc/SuccessFactors-Tool/assets/164942993/c2fe7134-2f85-44ee-9885-0e5f17ac0509)
+
+Table Name: Preferred Table name can be used and different version of data can be stored in different Tables
+Entity Set: Odata end-point name [Ex: User, EmpCompensation, EmpJob & others]. Enitity set will support complex odata Query
+Full Extract: As default, odata will extract only 1000 records and select 'Full extract' to extract full load
