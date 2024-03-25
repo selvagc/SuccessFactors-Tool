@@ -6,6 +6,7 @@ The SuccessFactors Data Tool simplifies the extraction of data from SuccessFacto
 **Use Cases:**
 
 •	Effortless Workbook Generation and Download
+
 		•	Generate comprehensive workbooks
 		•	Customize workbook templates to suit specific business requirements.
 		•	Download workbooks directly into Excel sheets for easy access and analysis
