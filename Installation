@@ -1,0 +1,12 @@
+Installation Procedure:
+1. Install Node.js.
+2. Install NPM.
+3. Download the package from GitHub and copy it into a new folder.
+4. Navigate to the copied folder using Visual Studio Code, Terminal, or any preferred method.
+5. Open the 'server.js' file and update:
+   - `sfODataUrl` to '<SF OData URL>/odata/v2'.
+   - Set `username` to 'User@companyid' and `password` to 'Password'.
+6. Run `npm install`.
+7. NPM will install the necessary packages.
+8. Start the server with the command 'node server.js'.
+9. Access the URL 'localhost:3000/index.html' in your preferred browser.
