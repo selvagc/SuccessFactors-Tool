@@ -1,0 +1,13 @@
+Supported Features:
+    •	Extraction and storage of SuccessFactors data into SQLite databases [Locally] 
+    •	Local extraction of multiple versions of SuccessFactors data tailored to specific projects
+    •	Utilization of complex OData queries for data extraction
+    •	Basic Authentication is implemented
+
+Planned Features:
+    •	Extract SuccessFactors configuration and generate workbooks automatically [Immediate release]
+    •	Extract MDF Configurations seamlessly
+    •	Transition from Basic Authentication to OAuth Configuration for enhanced security
+    •	Enhance user interface for improved user experience
+    •	Implement background job scheduler for automated tasks
+    •	Introduce version management for better control and tracking
